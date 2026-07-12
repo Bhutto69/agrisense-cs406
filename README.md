@@ -57,5 +57,11 @@ python task6_superres/task6_superres.py
 
 ## Repository Structure
 
-## Author
-**Aamir Azeem And Hamza Shahid** | CS406 Digital Image Processing | UMT Lahore | Spring 2026
+## Submission Links
+- **GitHub:** https://github.com/Bhutto69/agrisense-cs406
+- **Overleaf Report:** https://www.overleaf.com/read/hmdtjmfrmmbv#7b0a81
+
+## Authors
+**Aamir Azeem** (F2022266248) | **Hamza Shahid** (F2022266067)
+CS406 Digital Image Processing | Section V3 | UMT Lahore | Spring 2026
+Instructor: Dr. Jameel Ahmad
