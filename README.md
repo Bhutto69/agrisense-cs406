@@ -1,7 +1,7 @@
 # AgriSense 🌾
 **Smart & Precision Agriculture Using Satellite Remote Sensing and Weather-Aware Image Analysis**
 
-CS406 — Digital Image Processing | Spring 2026 | UMT Lahore
+Digital Image Processing
 
 ---
 
