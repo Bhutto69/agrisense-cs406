@@ -62,6 +62,6 @@ python task6_superres/task6_superres.py
 - **Overleaf Report:** https://www.overleaf.com/read/hmdtjmfrmmbv#7b0a81
 
 ## Authors
-**Aamir Azeem** (F2022266248) | **Hamza Shahid** (F2022266067)
-CS406 Digital Image Processing | Section V3 | UMT Lahore | Spring 2026
+**Aamir Azeem** | **Hamza Shahid** 
+Digital Image Processing
 Instructor: Dr. Jameel Ahmad
